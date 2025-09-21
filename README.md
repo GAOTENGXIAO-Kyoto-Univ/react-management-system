@@ -1,5 +1,5 @@
 # React-Management-System
-React+Javascript+Antdを用いたフルスタックのプロジェクト
+React+Javascript+Antd+Node.jsを用いたフルスタックのプロジェクト
 
 # 実現した機能ページ：
 ## 1. ログインページ
