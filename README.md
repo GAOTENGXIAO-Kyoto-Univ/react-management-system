@@ -1,12 +1,13 @@
 # React-Management-System
-React+Javascript+Antd+Node.jsを用いたフルスタックのプロジェクト
+React+React-Router-dom+Javascript+Antd+Node.jsを用いたフルスタックのプロジェクト
 
 # 実現した機能ページ：
 ## 1. ログインページ
 機能：ログイン機能、アカウント検証
 
 ## ２．ホームページ
-ホームページでReact-Router-domを使って複数の機能を複数のコンポーネントとして実装している
+ホームページでReact-Router-domを使って複数の機能を複数のコンポーネントとして実装している  
+  
 実装したコンポーネント：
 ### 2.1 HP
 機能：アクセス数と売上の棒グラフ表示、システムの商品総数及び前週比・前日比の表示、仮TodoList
