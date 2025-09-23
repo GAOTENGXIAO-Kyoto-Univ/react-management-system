@@ -1,4 +1,4 @@
-# React-Management-System-Server
+# React-Management-System-Client
 React+React-Router-dom+Javascript+Antd+Node.jsを用いたフルスタックのプロジェクトです。フロントエンド部分のコードです。
 
 # 実現した機能ページ：
