@@ -1,5 +1,5 @@
-# React-Management-System
-React+React-Router-dom+Javascript+Antd+Node.jsを用いたフルスタックのプロジェクト
+# React-Management-System-Server
+React+React-Router-dom+Javascript+Antd+Node.jsを用いたフルスタックのプロジェクトです。フロントエンド部分のコードです。
 
 # 実現した機能ページ：
 ## 1. ログインページ
